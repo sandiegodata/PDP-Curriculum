@@ -31,8 +31,8 @@ IPython notebooks for the weekend version of the Practical Data Program
 5. Git and Github
 6. Follow along from Zero. Create Repo, clone & Create Notebook
 
-Resources
-+++++++++
+### Resources
+
 
 1B: Python Syntax and Data Structures
 -------------------------------------
