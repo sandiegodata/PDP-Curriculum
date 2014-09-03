@@ -2,6 +2,7 @@
 
 IPython notebooks for the weekend version of the Practical Data Program
 
+The Schedule for the Fall 2014 session is [online at Google Docs](https://docs.google.com/spreadsheets/d/1vvWTXFHVFO1ak2i9yMDgzLoYB7uhU2ZtXEN7POqK_TM/edit?usp=sharing)
 
 * 1A: Overview and Basics
 * 1B: Python Syntax and Data Structures
@@ -15,7 +16,7 @@ IPython notebooks for the weekend version of the Practical Data Program
 * 3B: Exploring Datasets
 * 3C: Advanced Matplotlib
 * 3D: 
-* 4A:
+* 4A: Grouping and Multiindexes
 * 4B:
 * 4C:
 * 4D:
@@ -92,11 +93,34 @@ This one is long and complicated, and might cut into 2A and 2C
 ## 2C:  Matplotlib Basics
 
 * Plotting from Pandas
-
+* Simple Matplotlib plots
 
 ### Resources
 
 * (Pandas Plotting)[http://pandas.pydata.org/pandas-docs/stable/visualization.html]
 * (Matplotllib: PLotting)[https://scipy-lectures.github.io/intro/matplotlib/matplotlib.html]
 * (Matplotlib Tutorial)[http://www.loria.fr/~rougier/teaching/matplotlib/]
+
+
+## 3A: Descriptive Stats
+
+* Head and Describe
+* Mean, Median and Mode
+* Distributions
+
+## 3B: Exploring Datasets
+
+* Loading and post-load cleaning
+* Type conversion
+* Analysing columns
+
+
+## 3C: Advanced Matplotlib
+
+* Figures, Subplots and Axes
+* Ticks, Legends and Labels
+* Styling
+* Seaborn and PMLTools
+
+
 
