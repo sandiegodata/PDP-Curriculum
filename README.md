@@ -4,8 +4,8 @@ IPython notebooks for the weekend version of the Practical Data Program
 
 The Schedule for the Fall 2014 session is [online at Google Docs](https://docs.google.com/spreadsheets/d/1vvWTXFHVFO1ak2i9yMDgzLoYB7uhU2ZtXEN7POqK_TM/edit?usp=sharing)
 
-* 1A: Overview and Basics
-* 1B: Python Syntax and Data Structures
+* 1A: Python Syntax and Data Structures
+* 1B: Python Functions, Classes and Comprehensions
 * 1C: Intro to Pandas
 * 1D: Practice Exercises
 * 2A: Loading Data
@@ -15,11 +15,11 @@ The Schedule for the Fall 2014 session is [online at Google Docs](https://docs.g
 * 3A: Descriptive Stats
 * 3B: Exploring Datasets
 * 3C: Advanced Matplotlib
-* 3D: 
+* 3D: Practice Exercises
 * 4A: Grouping and Multiindexes
-* 4B:
-* 4C:
-* 4D:
+* 4B: Data Project
+* 4C: Data Project
+* 4D: Data Project
 
 ## 1A: Overview and Basics
 
@@ -123,4 +123,9 @@ This one is long and complicated, and might cut into 2A and 2C
 * Seaborn and PMLTools
 
 
+## 4A: Grouping and Multi Indexes
 
+* Grouping
+* Aggregation
+* Heirarchical indexing
+* Pivioting and reshaping.
