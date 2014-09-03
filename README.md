@@ -1,5 +1,4 @@
-PDP--Curriculum
-======================
+# PDP--Curriculum
 
 IPython notebooks for the weekend version of the Practical Data Program
 
@@ -21,8 +20,8 @@ IPython notebooks for the weekend version of the Practical Data Program
 * 4C:
 * 4D:
 
-1A: Overview and Basics
------------------------
+## 1A: Overview and Basics
+
 
 1. Goals
 2. Overview of the tools
@@ -31,8 +30,73 @@ IPython notebooks for the weekend version of the Practical Data Program
 5. Git and Github
 6. Follow along from Zero. Create Repo, clone & Create Notebook
 
+
+## 1B: Python Syntax and Data Structures
+
+1. Lists
+2. Loops
+3. Dicts
+4. Iteration and Iterables
+5. Slicing
+6. Tuples
+7. If
+8. Functions
+
 ### Resources
 
+* [Beginners guides for Python](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
-1B: Python Syntax and Data Structures
--------------------------------------
+## 1C: Intro to Pandas
+
+* Series and Dataframes
+* Indexes
+* Pandas Style, Avoiding loops
+* Basic indexing, column operatations
+* Statistics
+
+### Resources
+
+* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [Intro to Pandas Data Structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+
+
+## 1D:  Practice Exercises
+
+Work through a notebook that covers most of the topics in the previous sessions
+
+
+## 2A: Loading Data
+
+This one is a bit short, and 2B is a bit long. 
+
+* Ambry Warehouses
+* Loading from CSV
+* Loading from Excel
+* Introduction to SQL
+
+## 2B: Pandas Filtering and Indexing
+
+This one is long and complicated, and might cut into 2A and 2C
+
+* Basic filtering and indexing review
+* [], loc, ioc and ix overview
+* Selecting by label
+* Selecting by position
+* Boolean Indexing, isin
+* Merge and Join
+
+### Resources
+
+* (Pandas Indexing)[http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-label]
+
+## 2C:  Matplotlib Basics
+
+* Plotting from Pandas
+
+
+### Resources
+
+* (Pandas Plotting)[http://pandas.pydata.org/pandas-docs/stable/visualization.html]
+* (Matplotllib: PLotting)[https://scipy-lectures.github.io/intro/matplotlib/matplotlib.html]
+* (Matplotlib Tutorial)[http://www.loria.fr/~rougier/teaching/matplotlib/]
+
