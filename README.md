@@ -129,3 +129,8 @@ This one is long and complicated, and might cut into 2A and 2C
 * Aggregation
 * Heirarchical indexing
 * Pivioting and reshaping.
+
+
+## Other Topics
+
+An [excellent intro to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
